@@ -15,11 +15,14 @@
      
      Neste artigo vamos falar sobre os padrões dependecy injection, repository e unit of work.
      
-     - Dependency Injection ou Injeção de Dependência: É um padrão de projeto de software que visa reduzir o acoplamento entre as classes e realizar o desenvolvimento para interfaces. Na DI o desenvolvedor não precisa instanciar um objeto o framewok de injeção de dependência fica responsável por instanciar os objetos da aplicação.
+     1. Dependency Injection ou Injeção de Dependência: É um padrão de projeto de software que visa reduzir o acoplamento entre as classes e realizar o desenvolvimento para interfaces. Na DI o desenvolvedor não precisa instanciar um objeto o framewok de injeção de dependência fica responsável por instanciar os objetos da aplicação.
+
      
-     - Repository ou Repositório: Também é um padrão de projeto que provê o acesso de outras camadas da aplicação com os dados armazenados do sistema. Ele abstrai o acesso a informação independente da forma como os dados estão armazenados como também da ferramenta usada para armazenar as informações.
+     2. Repository ou Repositório: Também é um padrão de projeto que provê o acesso de outras camadas da aplicação com os dados armazenados do sistema. Ele abstrai o acesso a informação independente da forma como os dados estão armazenados como também da ferramenta usada para armazenar as informações.
+
      
-     - Unit of work ou unidade de trabalho: 
+     3. Unit of work ou unidade de trabalho:
+
      	
         
         
